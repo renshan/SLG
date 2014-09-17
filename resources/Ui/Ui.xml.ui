@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\cocostudio\UI1\Ui</ProjectDir>
+  <Version>1.5.0.1</Version>
+  <Resources>D:\cocostudio\UI1\Ui\Resources</Resources>
+  <Name>Ui</Name>
+  <JsonFileName>Ui.json</JsonFileName>
+  <JsonFolder>D:\cocostudio\UI1\Ui\Json</JsonFolder>
+  <JsonList>
+    <string>Ui_1.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>480</Width>
+    <Height>320</Height>
+  </CanvasSize>
+  <filePath>D:\cocostudio\UI1\Ui\Ui.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>Ui_1.json</CurrentUIJson>
+</UIProject>
