@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="30" height="30" tilewidth="128" tileheight="64">
+ <tileset firstgid="1" name="iso-test-128" tilewidth="128" tileheight="234">
+  <image source="iso-test-128.png" width="1024" height="705"/>
+ </tileset>
+ <layer name="bgLayer" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJy9VUEOwzAIC+z/f95lB2QZcCjrAalqEhxsQ+ycY7/4QLB/uG7JeVxTQs2vnI3hQq4O18hadt+Ohwm2QR23uJP/1V7EVTRVsLP8mScnXqq488Bzp+/E41ltHiLm93NX96TXELvThvXTBLeaK/jtIm61p+sZdocsn8N3dzfWOzfzSqm7q531GOIq3kJ/ql7Pamb7qnwKP5XOTvBVbEWHbVzV88jNNibmwDlZ6fwUFzEzX2/PSGUdea406jTM+My0qDT4R7B34g3M6l2a1hCj43kDs6uN4SremcQbuk342D7DdL/l6QlX0ztvz081zxffCwV0
+  </data>
+ </layer>
+ <layer name="goodsLayer" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlt0KgDAIhbtwq/d/4ugikNic06PR6LspWOoh/0YbjqL8joz2FaxD4taI8NXyGw1adybl8eRQ512Lxsb77w6j3Zdz9oMnalb06mwHx5H0S2cr9MHsDBjNOg+WvEbuKSm/WfuxFfet2BKjXojQjOo/7X3Ni3XfroanFmZsr/ro5TYzF1n1xePx3pDuqVp/CCrQ1wnqagEG
+  </data>
+ </layer>
+ <layer name="tipsLayer" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztw8EJAAAIAKGD9t+5T1ukYNVcAAAA/lhiTAAH
+  </data>
+ </layer>
+</map>
